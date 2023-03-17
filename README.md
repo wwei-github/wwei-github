@@ -1,10 +1,9 @@
-### Hi 👋
 
-<p textAlign="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&duration=5500&center=true&vCenter=true&width=450&lines=%E6%84%9F%E8%B0%A2%E6%9D%A5%E5%88%B0%E6%88%91%E7%9A%84Github%EF%BC%8C%E6%88%91%E6%98%AF%E5%B0%B1%E6%83%B3%E6%8D%A2%E4%B8%AA%E5%90%8D%E5%AD%97%EF%BC%88wwei%EF%BC%89;%E6%AC%A2%E8%BF%8E%E9%9A%8F%E6%97%B6%E6%89%BE%E6%88%91%E4%BA%A4%E6%B5%81%EF%BC%81">
+<p align="center">
+ <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&duration=5500&center=true&vCenter=true&width=450&lines=%E6%84%9F%E8%B0%A2%E6%9D%A5%E5%88%B0%E6%88%91%E7%9A%84Github%EF%BC%8C%E6%88%91%E6%98%AF%E5%B0%B1%E6%83%B3%E6%8D%A2%E4%B8%AA%E5%90%8D%E5%AD%97%EF%BC%88wwei%EF%BC%89;%E6%AC%A2%E8%BF%8E%E9%9A%8F%E6%97%B6%E6%89%BE%E6%88%91%E4%BA%A4%E6%B5%81%EF%BC%81">
 </p>
 
-<br />
+### Hi 👋 
 
 - 🔭 I’m currently working on React.
 - 🌱 I’m currently learning to become a full stack developer.
