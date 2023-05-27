@@ -5,7 +5,7 @@
 
 ### Hi 👋 
 
-- 🔭 I’m currently working on React.
+- 🔭 I’m currently working on ...
 - 🌱 I’m currently learning to become a full stack developer.
 - 🤔 I’m looking for help with web3 development.
 
